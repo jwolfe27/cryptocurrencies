@@ -16,7 +16,7 @@
  
  - Libraries Utilized
     
-    -SciPy
+    - SciPy
     - NumPy
     - Scikit-Learn
     - HvPlot
